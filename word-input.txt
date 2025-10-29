@@ -1,0 +1,8 @@
+Nouns:
+Animal, bird, chicken, monkey, mouse, pig
+
+Adjectives:
+cold,  healthy, sad , warm
+
+Verbs:
+  cook, hear, run, see
